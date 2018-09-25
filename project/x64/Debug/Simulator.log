@@ -1,0 +1,4 @@
+﻿  0 File(s) copied
+  QuadEstimatorEKF.cpp
+c:\fcnd\fcnd-estimation-cpp\src\quadestimatorekf.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Simulator.vcxproj -> C:\FCND\FCND-Estimation-CPP\project\x64\Debug\Simulator.exe
